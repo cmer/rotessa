@@ -1,5 +1,4 @@
 require "httparty"
-require "debug"
 
 class Rotessa::Client
   include HTTParty
